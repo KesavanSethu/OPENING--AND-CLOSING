@@ -65,17 +65,20 @@ plt.axis('off')
 ## Output:
 Display the input Image
 
-<img width="665" height="506" alt="image" src="https://github.com/user-attachments/assets/422feb2f-fb43-40cb-9bca-c861372524a2" />
+<img width="757" height="550" alt="image" src="https://github.com/user-attachments/assets/833a21e4-8749-475d-80a3-cbbf59ab626c" />
+
 
 
 Display the result of Opening
 
-<img width="659" height="524" alt="image" src="https://github.com/user-attachments/assets/fa1d326f-23ed-4d97-9926-4e98d43e20c0" />
+<img width="696" height="553" alt="image" src="https://github.com/user-attachments/assets/46dd0201-d881-4583-94d7-3c5e748d5a6c" />
+
 
 
 Display the result of Closing
 
-<img width="664" height="508" alt="image" src="https://github.com/user-attachments/assets/f7d0f30f-094c-428b-af19-2ec28ae448bb" />
+<img width="690" height="542" alt="image" src="https://github.com/user-attachments/assets/e07c22b7-6dca-4403-80c0-a310fe3606a8" />
+
 
 
 
